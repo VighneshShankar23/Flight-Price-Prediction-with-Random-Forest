@@ -6,6 +6,7 @@ Before starting with the model make sure to import the test & train data set whi
 PROJECT BY: VIGHNESH SHANKAR
 
 STEPS FOLLOWED : 
+
      1. Problem Statement
      2. Data Processing
      3. Model Building

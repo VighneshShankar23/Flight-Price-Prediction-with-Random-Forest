@@ -15,7 +15,10 @@ STEPS FOLLOWED :
      6. Result Visualization
 
 REFERENCE : 
+
      1. Kaggle.com
      2. Towards data Science blogs
 
-FUTURE SCOPE: Build a frontend to implement the model and host it over a website.
+FUTURE SCOPE: 
+     
+     Build a frontend to implement the model and host it over a website.

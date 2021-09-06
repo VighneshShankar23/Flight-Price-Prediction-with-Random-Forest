@@ -1,4 +1,4 @@
-# Flight-Price_Indicator
+# Flight-Price-Indicator
 We are given flight prices for the year 2019 , our task is to predict the price of flight in the test dataset for the parameter's mentioned.
 
 Before starting with the model make sure to import the test & train data set which can be found at [here](https://www.kaggle.com/nikhilmittal/flight-fare-prediction-mh)
